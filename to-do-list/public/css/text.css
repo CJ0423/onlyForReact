@@ -1,0 +1,13 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.aquarium {
+  width: 100%;
+  height: 100vh;
+  background-color: aqua;
+}
+.aquarium .text {
+  color: green;
+}/*# sourceMappingURL=text.css.map */
